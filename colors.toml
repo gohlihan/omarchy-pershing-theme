@@ -1,0 +1,33 @@
+# Pershing 6X Cruising: deep water, gunmetal, silver, and teak.
+mode = "dark"
+
+accent = "#7399cb"
+selection = "#334b64"
+selection_foreground = "#f4f6f7"
+muted = "#6d7883"
+
+background = "#0a2737"
+dark_background = "#071b27"
+darker_background = "#04121a"
+lighter_background = "#183349"
+
+foreground = "#d0d2d3"
+dark_foreground = "#9aa2aa"
+light_foreground = "#e4e4e4"
+bright_foreground = "#f4f6f7"
+
+red = "#d47c6a"
+yellow = "#d8b77c"
+orange = "#ae8b69"
+green = "#6fa58f"
+cyan = "#72b4c4"
+blue = "#7399cb"
+magenta = "#b58ba8"
+brown = "#8b684d"
+
+bright_red = "#e39786"
+bright_yellow = "#e6ca96"
+bright_green = "#89bea8"
+bright_cyan = "#91cedb"
+bright_blue = "#99b1ce"
+bright_magenta = "#c9a4bd"
